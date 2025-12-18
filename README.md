@@ -8,7 +8,7 @@ The objective of this project is to analyze Vrinda Store’s sales performance f
 - <a href="https://github.com/Yashbansode76/Vrinda-Store-Annual-Report/blob/main/Store%20Data.xlsx">Dataset</a>
 
 ## Dashboard:
-<img width="1705" height="702" alt="Vrinda Store Analysis" src="https://github.com/user-attachments/assets/3ea8ea37-1ff3-4bc8-91b6-2c04697988be"/>
+<img src = "https://github.com/sanketlawand/Vrinda-Store-Annual-Report/blob/main/Snapshot%20of%20the%20Dashboard.png"/>
 
 ## Business Questions:
 1. Compare sales vs orders in a single chart.
