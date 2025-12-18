@@ -5,7 +5,7 @@ Developed an interactive Excel dashboard using Pivot Tables, Pivot Charts, Slice
 The objective of this project is to analyze Vrinda Store’s sales performance for the year 2022 using an interactive Excel dashboard. The dashboard provides insights into sales trends, customer demographics, state-wise contributions, order status, and sales channels to support data-driven decision-making.
 
 ## Dataset Used:
-- <a href="https://github.com/Yashbansode76/Vrinda-Store-Annual-Report/blob/main/Store%20Data.xlsx">Dataset</a>
+- <a href="Store Data.xlsx">Dataset</a>
 
 ## Dashboard:
 <img src = "https://github.com/sanketlawand/Vrinda-Store-Annual-Report/blob/main/Snapshot%20of%20the%20Dashboard.png"/>
